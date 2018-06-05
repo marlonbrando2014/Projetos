@@ -1,0 +1,22 @@
+[PROJECT]
+Target=exe18.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.008
+Compiler=PCM
+CCSVersion=5.008
+[Target Data]
+FileList=exe18.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Users\Marlon\Desktop\microcontrolador\testes\
+[C:\Users\Marlon\Desktop\microcontrolador\testes\exe18]
+Type=4
+[mru-list]
+1=exe18.c
+[Opened Files]
+1=exe18.c
+2=
+[exe18.c]
+Type=4
+[Units]
+Count=1
+1=exe18 (main)
